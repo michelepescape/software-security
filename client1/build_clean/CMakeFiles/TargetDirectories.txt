@@ -1,0 +1,3 @@
+/home/unina/Scrivania/Progetto/client1/build_clean/CMakeFiles/client_cleancalls.dir
+/home/unina/Scrivania/Progetto/client1/build_clean/CMakeFiles/edit_cache.dir
+/home/unina/Scrivania/Progetto/client1/build_clean/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+project(CleanCallSS)
+set(DynamoRIO_DIR "/home/unina/Scaricati/DynamoRIO-Linux-11.3.0/DynamoRIO-Linux-11.3.0-1/cmake") 
+find_package(DynamoRIO)
+add_library(client_cleancalls SHARED client_cleancalls.c)
+configure_DynamoRIO_client(client_cleancalls)
+use_DynamoRIO_extension(client_cleancalls drmgr)

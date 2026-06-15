@@ -1,0 +1,3 @@
+/home/unina/patch_dynamorio/build/CMakeFiles/patch_client_libc.dir
+/home/unina/patch_dynamorio/build/CMakeFiles/edit_cache.dir
+/home/unina/patch_dynamorio/build/CMakeFiles/rebuild_cache.dir
